@@ -190,3 +190,9 @@
         margin-top: 40px;
     }
 }
+
+@media (max-width: 576px) {
+    h1 {
+        font-size: 28px;
+    }
+}
